@@ -1,0 +1,4 @@
+{
+    "flags": "-oP",
+    "pattern": "'\d{1,5}/open'"
+}
